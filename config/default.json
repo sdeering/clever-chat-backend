@@ -1,0 +1,17 @@
+{
+    "chat": {
+
+        "enabled": true,
+        "port": 8080,
+        "loglevel": 3,
+        "transports": [ 
+            "websocket",
+            "xhr-polling" 
+        ],
+        "enableClientMinification": false,
+        "enableETag": false,
+        "enableGZip": false
+
+    }
+
+}

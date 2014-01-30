@@ -1,0 +1,34 @@
+{
+  "name": "clever-chat-backend",
+  "version": "0.0.1",
+  "author": {
+    "name": "Clevertech",
+    "email": "info@clevertech.biz",
+    "web": "http://www.clevertech.biz"
+  },
+  "collaborators": [
+    "Sam Deering <sam@clevertech.biz>"
+  ],
+  "description": "The backend chat module for CleverStack. Provides live chat to you web app.",
+  "keywords": [
+    "cleverstack",
+    "clevertech",
+    "cleverstack-module",
+    "cleverstack-backend"
+  ],
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CleverStack/clever-chat-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CleverStack/clever-chat-backend/issues"
+  },
+  "main": "module.js",
+  "dependencies": {
+    "socket.io": "~0.9.16"
+  },
+  "devDependencies": {
+
+  }
+}
